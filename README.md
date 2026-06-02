@@ -18,7 +18,7 @@ Feel free to explore, collaborate, or connect if you share the same fervor for s
 | ------------------ | --------- |
 
 <p align="center">
-	<a href="https://mabdullahjs.com/" align="center" target="_blank"
+	<a href="https://usman-nasir-js.vercel.app/" align="center" target="_blank"
 		style="font-size:2rem; letter-spacing:0.3rem; font-weight:800; text-align:center; border:2px solid">MY PERSONAL
 		PORTFOLIO WEBSITE</a>
 </p>
@@ -27,14 +27,14 @@ Feel free to explore, collaborate, or connect if you share the same fervor for s
 <h3 align="left">📫 Connect with me on 🔗 :</h3>
 
 <p align="left">
-	<a href="https://www.linkedin.com/in/mabdullahjs/" target="blank"><img align="center"
+	<a href="https://www.linkedin.com/in/m-usman-nasir-312111322/" target="blank"><img align="center"
 			src="https://skillicons.dev/icons?i=linkedin" height="50" width="50" alt="linkedin" /></a>
-	<a href="https://twitter.com/mabdullah2037" target="blank" style="padding:8px"><img align="center" style="margin:8px"
+	<a href="https://twitter.com/usmannasir2008" target="blank" style="padding:8px"><img align="center" style="margin:8px"
 			src="https://skillicons.dev/icons?i=twitter" height="50" width="50" alt="twitter icon" /></a>
-	<a href="https://www.instagram.com/m.abdullah_js/" target="blank" style="padding:8px"><img align="center"
-			src="https://skillicons.dev/icons?i=instagram" alt="mabdullah" height="50" width="50" /></a>
+	<a href="https://www.instagram.com/usmanbinnasir2008/" target="blank" style="padding:8px"><img align="center"
+			src="https://skillicons.dev/icons?i=instagram" alt="musman" height="50" width="50" /></a>
 	<img src="https://komarev.com/ghpvc/?username=shehza-d&label=Profile%20views&color=11eb11&style=for-the-badge"
-		alt="mabdullah" align="right" />
+		alt="musman" align="right" />
 </p>
 <hr>
 
